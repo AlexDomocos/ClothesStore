@@ -2,7 +2,8 @@
 SQLyog Community v9.30 
 MySQL - 5.6.25-log : Database - fashionstore
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
